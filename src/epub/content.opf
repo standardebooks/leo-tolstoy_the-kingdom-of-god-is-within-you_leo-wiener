@@ -33,15 +33,13 @@
 		<dc:description id="description">Tolstoy describes true Christianity as a non-hierarchical, nonviolent, non-coercive pursuit, and criticizes institutional Christianity as a deceptive corruption.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
-		The Kingdom of God Is Within You is the most influential work of Christian anarchism, and would probably be considered the founding work of that tradition if it didn’t itself claim to merely be pointing out Christian anarchism as the plain meaning of the gospels.	
-
-                Tolstoy argues that Christianity as it currently exists in the form of doctrines, church institutions and hierarchies, and ritual practices, is anti-Christian. Not just that it happens to be anti-Christian because these things have become corrupt (though they have) but because Christ explicitly told his followers to reject doctrines, church institutions and hierarchies, and ritual practices, and instead to love truth, to honor God, and to treat all people as your family and as you would want to be treated.
-
-                This intuitive and simple message, which Jesus made explicit in the gospels, ought to be the lodestone of all of our lives, and indeed the progress of society throughout human history is leading us in this direction as truth slowly erodes away falsehood.
-
-                An inevitable conclusion of the command to treat all people as your family and as you would want to be treated is that the current political order is unsupportable. You cannot participate in the political system, which is based on the use of violence to enforce the separation of people and the privileging of some people over others, and at the same time follow the guideline to love your neighbor.
-
-                Everybody ought to work to orient their lives along true Christian lines immediately (without waiting for the world to be “ready” for it). This means ending all support of and participation in government, for instance as a soldier, an office-holder, a juror, or a taxpayer. And it also means renouncing any privileges that the government implicitly defends by violent means (such as private property).
+                &lt;p&gt;
+		 &lt;i&gt;The Kingdom of God Is Within You&lt;/i&gt; is the most influential work of Christian anarchism. It would probably be considered the founding work of that tradition if it didn’t itself claim to merely be pointing out Christian anarchism as the plain meaning of the gospels.	
+                &lt;/p&gt;&lt;p&gt;
+                 Tolstoy argues that institutional Christianity with its doctrines, church hierarchies, and ritual practices, is anti-Christian. Christ, he says, explicitly told his followers to reject doctrines, church institutions and hierarchies, and ritual practices, and instead to love truth, to honor God, and to treat all people as your family and as you would want to be treated.
+                &lt;/p&gt;&lt;p&gt;
+                 Tolstoy says that a Christian cannot participate in the political system, which is based on the use of violence to enforce the separation of people and the privileging of some people over others, and at the same time follow Jesus in his command to love your neighbor.
+                &lt;/p&gt;
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-US</dc:language>
