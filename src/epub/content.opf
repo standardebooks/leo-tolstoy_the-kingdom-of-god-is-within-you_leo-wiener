@@ -34,7 +34,7 @@
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
                 &lt;p&gt;
-		 &lt;i&gt;The Kingdom of God Is Within You&lt;/i&gt; is the most influential work of Christian anarchism. It would probably be considered the founding work of that tradition if it didn’t itself claim to merely be pointing out Christian anarchism as the plain meaning of the gospels.	
+		 &lt;i&gt;The Kingdom of God Is Within You&lt;/i&gt; is the most influential work of Christian anarchism. It would probably be considered the founding work of that tradition if it didn’t itself claim to merely be pointing out Christian anarchism as the plain meaning of the gospels.
                 &lt;/p&gt;&lt;p&gt;
                  Tolstoy argues that institutional Christianity with its doctrines, church hierarchies, and ritual practices, is anti-Christian. Christ, he says, explicitly told his followers to reject doctrines, church institutions and hierarchies, and ritual practices, and instead to love truth, to honor God, and to treat all people as your family and as you would want to be treated.
                 &lt;/p&gt;&lt;p&gt;
@@ -44,6 +44,7 @@
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://books.google.com/books?id=Dd8-AQAAIAAJ</dc:source>
+		<meta property="se:production-notes">The editor of this edition has made a few improvements, for instance where Tolstoy quotes from English-language sources for which he was able to find the originals, but that Wiener translated back from Tolstoy’s own Russian translations. He has also added some useful information in endnotes.</meta>
 		<meta property="se:word-count">123171</meta>
 		<meta property="se:reading-ease.flesch">42.18</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Kingdom_of_God_Is_Within_You</meta>
