@@ -9,3 +9,24 @@ span[epub|type~="subtitle"]{
 	display: block;
 	font-weight: normal;
 }
+
+[epub|type~="epigraph"]{
+	font-style: italic;
+	hyphens: none;
+	padding-top: 3em;
+}
+
+[epub|type~="epigraph"] cite{
+	margin-top: 1em;
+	font-style: normal;
+	font-variant: small-caps;
+}
+
+[epub|type~="epigraph"] blockquote{
+	max-width: 75%;
+	margin: auto;
+}
+
+[epub|type~="epigraph"] blockquote + blockquote{
+	margin-top: 3em;
+}
