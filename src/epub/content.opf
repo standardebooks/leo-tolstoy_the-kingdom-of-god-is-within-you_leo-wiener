@@ -62,9 +62,9 @@
 		<meta property="se:url.authority.nacoaf" refines="#translator">http://id.loc.gov/authorities/names/n50016211</meta>
 		<meta property="display-seq" refines="#translator">1</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
-		<dc:contributor id="artist">Anonymous</dc:contributor>
-		<meta property="file-as" refines="#artist">anonymous</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/%C5%BDi%C4%8Da</meta>
+		<dc:contributor id="artist">Thomas Cole</dc:contributor>
+		<meta property="file-as" refines="#artist">Cole, Thomas</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Thomas_Cole</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">David M. Gross</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Gross, David M.</meta>
