@@ -30,3 +30,13 @@ span[epub|type~="subtitle"]{
 [epub|type~="epigraph"] blockquote + blockquote{
 	margin-top: 3em;
 }
+
+footer{
+	text-align: right;
+	margin-top: 1em;
+}
+
+span[epub|type~="subtitle"]{
+	display: block;
+	font-weight: normal;
+}
