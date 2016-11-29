@@ -40,3 +40,11 @@ span[epub|type~="subtitle"]{
 	display: block;
 	font-weight: normal;
 }
+
+.signature{
+	font-variant: small-caps;
+}
+
+ol + p{
+	text-indent: 0;
+}
