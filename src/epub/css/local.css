@@ -55,3 +55,17 @@ blockquote header p{
 	margin-top: 2em;
 	margin-bottom: 1em;
 }
+
+table td{
+	vertical-align: top;
+}
+
+table td:first-child{
+	font-weight: bold;
+}
+
+blockquote table cite{
+	display: inline;
+	font-style: normal;
+	text-align: left;
+}
