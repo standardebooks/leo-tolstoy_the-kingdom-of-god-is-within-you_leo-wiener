@@ -29,7 +29,8 @@
 		<meta property="meta-auth" refines="#subject-3">http://id.loc.gov/authorities/subjects/sh2008108439</meta>
 		<meta property="meta-auth" refines="#subject-4">http://id.loc.gov/authorities/subjects/sh85056039</meta>
 		<meta property="meta-auth" refines="#subject-5">http://id.loc.gov/authorities/subjects/sh85025230</meta>
-		<meta property="se:subject">non-fiction</meta>
+		<meta property="se:subject">Nonfiction</meta>
+		<meta property="se:subject">Philosophy</meta>
 		<dc:description id="description">Tolstoy describes true Christianity as a non-hierarchical, nonviolent, non-coercive pursuit, and criticizes institutional Christianity as a deceptive corruption.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
