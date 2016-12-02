@@ -2,9 +2,9 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="cc: http://creativecommons.org/ns, se: http://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/leo-tolstoy/the-kingdom-of-god-is-within-you/leo-wiener</dc:identifier>
-		<dc:date>2016-08-23T16:15:23Z</dc:date>
-		<meta property="dcterms:modified">2016-08-23T16:17:40Z</meta>
-		<meta property="se:revision-number">0</meta>
+		<dc:date>2016-12-02T22:34:11Z</dc:date>
+		<meta property="dcterms:modified">2016-12-02T22:34:11Z</meta>
+		<meta property="se:revision-number">1</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -34,19 +34,15 @@
 		<dc:description id="description">Tolstoy describes true Christianity as a non-hierarchical, nonviolent, non-coercive pursuit, and criticizes institutional Christianity as a deceptive corruption.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
-                &lt;p&gt;
-		 &lt;i&gt;The Kingdom of God Is Within You&lt;/i&gt; is the most influential work of Christian anarchism. It would probably be considered the founding work of that tradition if it didn’t itself claim to merely be pointing out Christian anarchism as the plain meaning of the gospels.
-                &lt;/p&gt;&lt;p&gt;
-                 Tolstoy argues that institutional Christianity with its doctrines, church hierarchies, and ritual practices, is anti-Christian. Christ, he says, explicitly told his followers to reject doctrines, church institutions and hierarchies, and ritual practices, and instead to love truth, to honor God, and to treat all people as your family and as you would want to be treated.
-                &lt;/p&gt;&lt;p&gt;
-                 Tolstoy says that a Christian cannot participate in the political system, which is based on the use of violence to enforce the separation of people and the privileging of some people over others, and at the same time follow Jesus in his command to love your neighbor.
-                &lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;The Kingdom of God Is Within You&lt;/i&gt; is the most influential work of Christian anarchism. It might be considered the founding work of that tradition if it didn’t itself claim to merely be pointing out Christian anarchism as the plain meaning of the gospels.&lt;/p&gt;
+ 			&lt;p&gt;Tolstoy argues that institutional Christianity with its doctrines, church hierarchies, and ritual practices, is anti-Christian. Christ, he says, explicitly told his followers to reject doctrines, church institutions and hierarchies, and ritual practices, and instead to love truth, to honor God, and to treat all people as your family and as you would want to be treated.&lt;/p&gt;
+			&lt;p&gt;Tolstoy says that a Christian cannot participate in the political system, which is based on the use of violence to enforce the separation of people and the privileging of some people over others, and at the same time follow Jesus in his command to love your neighbor.&lt;/p&gt;
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://books.google.com/books?id=Dd8-AQAAIAAJ</dc:source>
 		<meta property="se:production-notes">The editor of this edition has made a few improvements, for instance where Tolstoy quotes from English-language sources for which he was able to find the originals, but that Wiener translated back from Tolstoy’s own Russian translations. He has also added some useful information in endnotes.</meta>
-		<meta property="se:word-count">123171</meta>
+		<meta property="se:word-count">122735</meta>
 		<meta property="se:reading-ease.flesch">42.18</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Kingdom_of_God_Is_Within_You</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/leo-tolstoy/the-kingdom-of-god-is-within-you/leo-wiener</meta>
