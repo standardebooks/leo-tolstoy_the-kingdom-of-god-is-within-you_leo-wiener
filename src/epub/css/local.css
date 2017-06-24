@@ -10,6 +10,11 @@ span[epub|type~="subtitle"]{
 	font-weight: normal;
 }
 
+section[epub|type~="halftitlepage"] span[epub|type~="subtitle"]{
+	display: block;
+	font-size: .75em;
+}
+
 [epub|type~="epigraph"]{
 	font-style: italic;
 	hyphens: none;
