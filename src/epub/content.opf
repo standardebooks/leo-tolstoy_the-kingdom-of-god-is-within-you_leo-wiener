@@ -26,7 +26,7 @@
 		<meta property="schema:accessibilityFeature">tableOfContents</meta>
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.0 Level AA.</meta>
-		<link href="onix.xml" rel="onix-record"/>
+		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">The Kingdom of God Is Within You</dc:title>
 		<meta property="file-as" refines="#title">Kingdom of God Is Within You, The</meta>
 		<dc:subject id="subject-1">Christianity -- Controversial literature</dc:subject>
@@ -34,21 +34,24 @@
 		<dc:subject id="subject-3">Nonviolence -- Religious aspects -- Christianity</dc:subject>
 		<dc:subject id="subject-4">Government, Resistance to -- Religious aspects -- Christianity</dc:subject>
 		<dc:subject id="subject-5">Christianity -- Essence, genius, nature</dc:subject>
-		<meta property="meta-auth" refines="#subject-1">http://id.loc.gov/authorities/subjects/sh85025228</meta>
-		<meta property="meta-auth" refines="#subject-2">http://id.loc.gov/authorities/subjects/sh85046020</meta>
-		<meta property="meta-auth" refines="#subject-3">http://id.loc.gov/authorities/subjects/sh2008108439</meta>
-		<meta property="meta-auth" refines="#subject-4">http://id.loc.gov/authorities/subjects/sh85056039</meta>
-		<meta property="meta-auth" refines="#subject-5">http://id.loc.gov/authorities/subjects/sh85025230</meta>
+		<meta property="authority" refines="#subject-1">LCSH</meta>
+		<meta property="term" refines="#subject-1">sh85025228</meta>
+		<meta property="authority" refines="#subject-2">LCSH</meta>
+		<meta property="term" refines="#subject-2">sh85046020</meta>
+		<meta property="authority" refines="#subject-3">LCSH</meta>
+		<meta property="term" refines="#subject-3">sh2008108439</meta>
+		<meta property="authority" refines="#subject-4">LCSH</meta>
+		<meta property="term" refines="#subject-4">sh85056039</meta>
+		<meta property="authority" refines="#subject-5">LCSH</meta>
+		<meta property="term" refines="#subject-5">sh85025230</meta>
 		<meta property="se:subject">Nonfiction</meta>
 		<meta property="se:subject">Philosophy</meta>
 		<dc:description id="description">Tolstoy describes true Christianity as a non-hierarchical, nonviolent, non-coercive pursuit, and criticizes institutional Christianity as a deceptive corruption.</dc:description>
-		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;The Kingdom of God Is Within You&lt;/i&gt; is the most influential work of Christian anarchism. It might be considered the founding work of that tradition if it didn’t itself claim to merely be pointing out Christian anarchism as the plain meaning of the gospels.&lt;/p&gt;
  			&lt;p&gt;Tolstoy argues that institutional Christianity with its doctrines, church hierarchies, and ritual practices, is anti-Christian. Christ, he says, explicitly told his followers to reject doctrines, church institutions and hierarchies, and ritual practices, and instead to love truth, to honor God, and to treat all people as your family and as you would want to be treated.&lt;/p&gt;
 			&lt;p&gt;Tolstoy says that a Christian cannot participate in the political system, which is based on the use of violence to enforce the separation of people and the privileging of some people over others, and at the same time follow Jesus in his command to love your neighbor.&lt;/p&gt;
 		</meta>
-		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://books.google.com/books?id=Dd8-AQAAIAAJ</dc:source>
 		<meta property="se:production-notes">The editor of this edition has made a few improvements, for instance where Tolstoy quotes from English-language sources for which he was able to find the originals, but that Wiener translated back from Tolstoy’s own Russian translations. He has also added some useful information in endnotes.</meta>
