@@ -55,7 +55,7 @@
 		<dc:language>en-US</dc:language>
 		<dc:source>https://books.google.com/books?id=Dd8-AQAAIAAJ</dc:source>
 		<meta property="se:production-notes">The editor of this edition has made a few improvements, for instance where Tolstoy quotes from English-language sources for which he was able to find the originals, but that Wiener translated back from Tolstoy’s own Russian translations. He has also added some useful information in endnotes.</meta>
-		<meta property="se:word-count">122941</meta>
+		<meta property="se:word-count">122970</meta>
 		<meta property="se:reading-ease.flesch">42.18</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Kingdom_of_God_Is_Within_You</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/leo-tolstoy_the-kingdom-of-god-is-within-you_leo-wiener</meta>
