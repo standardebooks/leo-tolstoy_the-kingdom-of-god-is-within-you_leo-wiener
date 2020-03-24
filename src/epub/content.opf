@@ -79,6 +79,7 @@
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="producer-1">David M. Gross</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Gross, David M.</meta>
+		<meta property="se:name.person.full-name" refines="#producer-1">David Michael Gross</meta>
 		<meta property="se:url.homepage" refines="#producer-1">http://sniggle.net/TPL/</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
