@@ -12,10 +12,4 @@
 			<reason>The nested &lt;blockquote&gt; is a correct quotation within a quotation.</reason>
 		</ignore>
 	</file>
-	<file path="chapter-6.xhtml">
-		<ignore>
-			<code>t-011</code>
-			<reason>Matched text are signatures to letters and do not require closing punctuation.</reason>
-		</ignore>
-	</file>
 </se-lint-ignore>
