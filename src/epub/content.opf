@@ -30,6 +30,13 @@
 		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">The Kingdom of God Is Within You</dc:title>
 		<meta property="file-as" refines="#title">Kingdom of God Is Within You, The</meta>
+		<meta property="title-type" refines="#title">main</meta>
+		<dc:title id="subtitle">Christianity Not as a Mystical Teaching but as a New Concept of Life</dc:title>
+		<meta property="file-as" refines="#subtitle">Christianity Not as a Mystical Teaching but as a New Concept of Life</meta>
+		<meta property="title-type" refines="#subtitle">subtitle</meta>
+		<dc:title id="fulltitle">The Kingdom of God Is Within You: Christianity Not as a Mystical Teaching but as a New Concept of Life</dc:title>
+		<meta property="file-as" refines="#fulltitle">The Kingdom of God Is Within You</meta>
+		<meta property="title-type" refines="#fulltitle">extended</meta>
 		<dc:subject id="subject-1">Christianity -- Controversial literature</dc:subject>
 		<dc:subject id="subject-2">Evil, Non-resistance to</dc:subject>
 		<dc:subject id="subject-3">Nonviolence -- Religious aspects -- Christianity</dc:subject>
