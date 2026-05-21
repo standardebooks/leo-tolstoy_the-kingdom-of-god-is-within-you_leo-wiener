@@ -108,8 +108,8 @@
 		<meta property="file-as" refines="#producer-3">Cheng, Weijia</meta>
 		<meta property="se:url.homepage" refines="#producer-3">https://weijiarhymeswith.asia/</meta>
 		<meta property="role" refines="#producer-3" scheme="marc:relators">mrk</meta>
-	<meta property="role" refines="#producer-3" scheme="marc:relators">pfr</meta>
-		</metadata>
+		<meta property="role" refines="#producer-3" scheme="marc:relators">pfr</meta>
+	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
 		<item href="css/local.css" id="local.css" media-type="text/css"/>
