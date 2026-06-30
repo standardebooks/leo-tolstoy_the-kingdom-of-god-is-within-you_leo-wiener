@@ -1,0 +1,1 @@
+The editor of this edition has made a few improvements, for instance where Tolstoy quotes from English-language sources for which he was able to find the originals, but that Wiener translated back from Tolstoy’s own Russian translations. He has also added some useful information in endnotes.
