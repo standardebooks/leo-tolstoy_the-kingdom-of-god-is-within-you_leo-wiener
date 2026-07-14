@@ -36,7 +36,7 @@
 		<meta property="title-type" refines="#subtitle">subtitle</meta>
 		<dc:title id="fulltitle">The Kingdom of God Is Within You: Christianity Not as a Mystical Teaching but as a New Concept of Life</dc:title>
 		<meta property="file-as" refines="#fulltitle">The Kingdom of God Is Within You</meta>
-		<meta property="title-type" refines="#fulltitle">extended</meta>
+		<meta property="title-type" refines="#fulltitle">expanded</meta>
 		<dc:subject id="subject-1">Christianity -- Controversial literature</dc:subject>
 		<dc:subject id="subject-2">Evil, Non-resistance to</dc:subject>
 		<dc:subject id="subject-3">Nonviolence -- Religious aspects -- Christianity</dc:subject>
