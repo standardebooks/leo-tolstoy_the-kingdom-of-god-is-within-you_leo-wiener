@@ -55,7 +55,7 @@
 		<meta property="schema:genre">Nonfiction</meta>
 		<meta property="schema:genre">Philosophy</meta>
 		<meta property="schema:genre">Spirituality</meta>
-		<dc:abstract>Tolstoy describes true Christianity as a non-hierarchical, nonviolent, non-coercive pursuit, and criticizes institutional Christianity as a deceptive corruption.</dc:abstract>
+		<meta property="schema:abstract">Tolstoy describes true Christianity as a non-hierarchical, nonviolent, non-coercive pursuit, and criticizes institutional Christianity as a deceptive corruption.</meta>
 		<dc:description>
 			&lt;p&gt;&lt;i&gt;The Kingdom of God Is Within You&lt;/i&gt; is the most influential work of Christian anarchism. It might be considered the founding work of that tradition if it didn’t itself claim to merely be pointing out Christian anarchism as the plain meaning of the gospels.&lt;/p&gt;
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/leo-tolstoy"&gt;Tolstoy&lt;/a&gt; argues that institutional Christianity with its doctrines, church hierarchies, and ritual practices, is anti-Christian. Christ, he says, explicitly told his followers to reject doctrines, church institutions and hierarchies, and ritual practices, and instead to love truth, to honor God, and to treat all people as your family and as you would want to be treated.&lt;/p&gt;
