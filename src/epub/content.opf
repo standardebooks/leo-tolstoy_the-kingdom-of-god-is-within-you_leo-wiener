@@ -37,11 +37,11 @@
 		<dc:title id="fulltitle">The Kingdom of God Is Within You: Christianity Not as a Mystical Teaching but as a New Concept of Life</dc:title>
 		<meta property="file-as" refines="#fulltitle">The Kingdom of God Is Within You</meta>
 		<meta property="title-type" refines="#fulltitle">expanded</meta>
-		<dc:subject id="subject-1">Christianity -- Controversial literature</dc:subject>
+		<dc:subject id="subject-1">Christianity--Controversial literature</dc:subject>
 		<dc:subject id="subject-2">Evil, Non-resistance to</dc:subject>
-		<dc:subject id="subject-3">Nonviolence -- Religious aspects -- Christianity</dc:subject>
-		<dc:subject id="subject-4">Government, Resistance to -- Religious aspects -- Christianity</dc:subject>
-		<dc:subject id="subject-5">Christianity -- Essence, genius, nature</dc:subject>
+		<dc:subject id="subject-3">Nonviolence--Religious aspects--Christianity</dc:subject>
+		<dc:subject id="subject-4">Government, Resistance to--Religious aspects--Christianity</dc:subject>
+		<dc:subject id="subject-5">Christianity--Essence, genius, nature</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85025228</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
