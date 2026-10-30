@@ -71,7 +71,7 @@
 		<link href="https://github.com/standardebooks/leo-tolstoy_the-kingdom-of-god-is-within-you_leo-wiener" refines="#vcs-repository" rel="schema:codeRepository"/>
 		<dc:creator id="author">Leo Tolstoy</dc:creator>
 		<meta property="file-as" refines="#author">Tolstoy, Leo</meta>
-		<meta property="schema:alternateName" refines="#author">Count Lev Nikolayevich Tolstoy</meta>
+		<meta property="schema:alternateName" refines="#author">Lev Nikolayevich Tolstoy</meta>
 		<meta property="alternate-script" refines="#author">Лев Никола́евич Толсто́й</meta>
 		<link href="https://en.wikipedia.org/wiki/Leo_Tolstoy" refines="#author" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n79068416.html" refines="#author" rel="schema:sameAs"/>
@@ -92,7 +92,8 @@
 		<dc:contributor id="producer-1">David M. Gross</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Gross, David M.</meta>
 		<meta property="schema:alternateName" refines="#producer-1">David Michael Gross</meta>
-		<link href="http://sniggle.net/TPL/" refines="#producer-1" rel="schema:url"/>
+		<link href="https://sniggle.net/TPL/" refines="#producer-1" rel="schema:url"/>
+		<link href="https://id.loc.gov/authorities/names/no2009011220.html" refines="#producer-1" rel="schema:sameAs"/>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">ann</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
